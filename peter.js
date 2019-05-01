@@ -1,2 +1,2 @@
 console.log('hello world')
-console.log('we made a change')
+console.log('we made a changes')
